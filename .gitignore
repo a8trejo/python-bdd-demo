@@ -1,0 +1,15 @@
+
+# Python
+**/__pycache__
+__pycache__/**
+.DS_Store
+.idea/**
+.idea
+
+# Secrets file
+secrets.env.json
+
+# Downloaded Content
+allure-2.19.0
+allure-2.19.0/**
+allure-2.19.0.zip

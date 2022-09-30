@@ -1,0 +1,11 @@
+black==22.1.0
+MarkupSafe==2.0.1
+mysql-connector-python==8.0.30
+pytest==6.2.5
+virtualenv==20.10.0
+virtualenv-clone==0.5.7
+allure-behave==2.10.0
+requests~=2.27.1
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
+behave~=1.2.6
